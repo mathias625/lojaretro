@@ -34,3 +34,5 @@ Abrir a pasta Front
 Abrir o arquivo index.html com Live Server  
 
 ## Testar o projeto
+
+O projeto já está pronto para o teste!
