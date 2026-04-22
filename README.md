@@ -45,29 +45,6 @@ A aplicação permite gerenciar produtos de uma loja retrô, como consoles, jogo
 
 ---
 
-## Estrutura do projeto
-
-```
-lojaretrô/
-│
-├── Back/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── routes/
-│   │   └── data/
-│   ├── server.js
-│   └── .env
-│
-├── Front/
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-│
-└── banco.sql
-```
-
----
-
 ## Como rodar o projeto
 
 ### 1. Banco de dados
