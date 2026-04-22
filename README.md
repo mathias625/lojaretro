@@ -50,21 +50,7 @@ A aplicação permite gerenciar produtos de uma loja retrô, como consoles, jogo
 ### 1. Banco de dados
 
 Execute o script SQL:
-
-```sql
-CREATE DATABASE lojaretro;
-USE lojaretro;
-
-CREATE TABLE produto(
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    nome VARCHAR(100),
-    imagem VARCHAR(1200),
-    preco DECIMAL(10,2),
-    categoria VARCHAR(100),
-    marca VARCHAR(50)
-);
 ```
-
 ---
 
 ### 2. Backend
