@@ -41,7 +41,7 @@ A aplicação permite gerenciar produtos de uma loja retrô, como consoles, jogo
 
 * HTML5
 * CSS3
-* JavaScript (Vanilla)
+* JavaScript 
 
 ---
 
