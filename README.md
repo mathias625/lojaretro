@@ -17,22 +17,39 @@ Projeto fullstack utilizado para gerenciar produtos de uma loja de videogames re
 
 ## Como executar
 
-Clonar repositório (git clone + url)
+Clonar repositório:
+git clone URL_DO_REPOSITORIO
 
-Abrir o projeto no VS Code
+Entrar na pasta do projeto:
+cd lojaretro
+
+Abrir o projeto no VS Code:
+code .
 
 ### Backend
-Entrar na pasta Back  
+
+Entrar na pasta Back:
+cd Back
+
 Instalar dependências:
-npm install  
+npm init -y  
+npm install express cors mysql2 dotenv  
 
 Rodar o servidor:
 node server.js  
 
 ### Frontend
-Abrir a pasta Front  
-Abrir o arquivo index.html com Live Server  
+
+Entrar na pasta Front:
+cd ../Front
+
+Abrir o projeto:
+- Clicar com botão direito no index.html
+- Abrir com Live Server
 
 ## Testar o projeto
+
+Acessar no navegador:
+http://localhost:3000/produtos
 
 O projeto já está pronto para o teste!
