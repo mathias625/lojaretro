@@ -1,6 +1,6 @@
 # Loja Retrô Games
 
-Projeto fullstack de uma loja de videogames retrô com CRUD completo de produtos.
+Projeto fullstack de uma loja de videogames retrô.
 
 ---
 
@@ -22,7 +22,6 @@ A aplicação permite gerenciar produtos de uma loja retrô, como consoles, jogo
 * Listar produtos
 * Cadastrar novos produtos
 * Editar produtos existentes
-* Excluir produtos
 * Visualizar detalhes
 
 ---
@@ -146,4 +145,4 @@ Abra a pasta `Front` e:
 
 ## Autor
 
-Desenvolvido por Mathias Pereira
+Desenvolvido por Mathias Domingos Pereira
