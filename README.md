@@ -133,16 +133,6 @@ Abra a pasta `Front` e:
 
 ---
 
-## Melhorias futuras
-
-* Sistema de login
-* Carrinho de compras
-* Deploy online
-* Filtro por categoria
-* Busca de produtos
-
----
-
 ## Autor
 
 Desenvolvido por Mathias Domingos Pereira
